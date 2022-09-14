@@ -12,7 +12,7 @@
 </div>
 
  <img align="center" alt="lu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="lu-Js" height="60" width="80" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+ <img align="right-center" alt="lu-Js" height="60" width="80" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   
 
 
