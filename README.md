@@ -1,7 +1,5 @@
 ### Olá, eu sou a Lu! 👋
-- 🔭 Atualmente estudando
-- 🌱 Aspirante a Dev backend
-- 🤔 Não sou muito boa em me expressar 😒
+- 🔭  Dev backend
 - 😄 Ela/Dela
 - ⚡ Fun fact: Amo animes, games, metal 💀🎸 e futebol ⚽ Vascooo!!!!💢
 
